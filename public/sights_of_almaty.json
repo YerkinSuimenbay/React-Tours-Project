@@ -1,0 +1,37 @@
+[
+    {
+        "id":"5",
+        "name":"Charyn Canyon",
+        "info":"Charyn Canyon (also known as Sharyn Canyon) is a canyon on the Sharyn River in Kazakhstan (200 kilometres (120 mi) east of Almaty, close to the Chinese border). The canyon is roughly 90 kilometres (56 mi) in length. It is part of the Charyn National Park (established on 23 February 2004), and is located within the territory of the Uygur District, Raiymbek District and Enbekshikazakh District (of the Almaty Province). Over time, the canyon has gained colorful formations of varying shapes and sizes. Though it is much smaller than the Grand Canyon, it has been described as being equally impressive.",
+        "image":"./images/charyn canyon.jpg",
+        "price":"15 000"
+    },
+    {
+        "id":"1",
+        "name":"Big Almaty Lake",
+        "info":"Big Almaty Lake is natural alpine reservoir. It is located in the Trans-Ili Alatau mountains, 15 km south from the center of Almaty in Kazakhstan. The lake is 2511 meters above sea level. Like the vast majority of lakes in the Tien Shan mountains, the lake appeared as a result from number of earthquakes. Above the lake rise the three main peaks that can be seen from the northern end of the dam: the peak of Councils (4317 m) - on south-east, the peak Ozerny (4110 m) - on the south and the peak Tourist (3954 m) - on the south-west of the lake. Big Almaty Lake is located at an altitude of 2511m on the upper side of the Almaty canyon. The Almaty River runs through it. It is located 2.511m above sea level. There are three peaks Sovetov (4,317 m), Ozyorny (4,110 m), and Turist (3,954 m) surrounding the lake, which can be seen from the northern end of the dam.",
+        "image":"./images/big-almaty-lake.jpg",
+        "price":"10 000"
+    },
+    {
+        "id":"2",
+        "name":"Kok Tobe",
+        "info":"Kok Tobe is a mountain in Almaty, Kazakhstan's largest city. There is a popular recreation area on top of the mountain. The mountain's height is 1100 meters above sea level. Kök Töbe is one of the main landmarks in the city, and it is popular among visitors and tourists to Almaty. Up until the 1960s, the Kök Töbe mountain was originally called Verigin. Before the Soviet Union, the hill was a favorite spot for the inhabitants of the city. During the Summer, the civilians organized May Day celebrations. At winter, it was a popular spot for skiing and sledding. Verny merchants called the mountain 'Blue Hill', a name believed to originate back to medieval times.",
+        "image":"./images/kok-tobe.jpg",
+        "price":"5000"
+    },
+    {
+        "id":"3",
+        "name":"Kok Zhailau",
+        "info":"Kok Zhailau is a plateau in the territory of the Ile-Alatau State National Natural Park located at an altitude of 2251.2 m. It is located between the Small and Big Almaty gorges, 10 km from the city of Almaty (in Kazakhstan). The track is located 1450-1740 m above sea level.[1][2] Almati, ski resort Shymbulak, the Medeu, and Big Almaty peak can be seen from the plateau.",
+        "image":"./images/kok-zhailau.jpg",
+        "price":"7500"
+    },
+    {
+        "id":"4",
+        "name":"Altyn-Emel National Park",
+        "info":"Altyn-Emel National Park is a national park in Kazakhstan. It was created in 1996. The park covers about 4,600 km2 (1,800 sq mi) between the Ili River and the Ak-Tau mountain range, near Lake Kapchagai, and consists mostly of desert and rocky terrain. Altyn-Emel National Park is located in the Ili River Valley, Kazakhstan. It comprises various landscapes, including sand desert, mountains, and flora. The park was founded on April 10, 1996, with the objective to preserve a natural park complex, as well as archaeological and historical monuments. It is the largest reserve in Kazakhstan and part of UNESCO's world heritage.",
+        "image":"./images/Altyn Emel National Park.jpg",
+        "price":"12 000"
+    }
+]
